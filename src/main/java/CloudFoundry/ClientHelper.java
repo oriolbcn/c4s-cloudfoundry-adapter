@@ -13,10 +13,6 @@ import org.cloudfoundry.client.lib.CloudFoundryClient;
 import org.cloudfoundry.client.lib.domain.CloudApplication;
 import org.cloudfoundry.client.lib.domain.CloudService;
 
-/**
- *
- * @author davidcunha (david-g-cunha@ptinovacao.pt)
- */
 public class ClientHelper {
 
     //static String CC_URL = "http://api.cloudfoundry.com";

@@ -3,16 +3,6 @@ package c4soa.adapter;
 import eu.cloud4soa.adapter.rest.response.*;
 import javax.ws.rs.*;
 
-/**
- *
- * @author pgouvas
- */
-/**
- *
- * @author pgouvas
- */
-
-
 //deprecated
 //methods moved to class Adapter
 @Path("/c4sDB")

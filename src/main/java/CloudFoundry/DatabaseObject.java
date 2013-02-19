@@ -1,13 +1,5 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package cloudfoundry;
 
-/**
- *
- * @author jled
- */
 public class DatabaseObject {
 
     public static final String MYSQL = "MySQL";
@@ -17,8 +9,6 @@ public class DatabaseObject {
     
     
     private String dbname;
-    //private String dbuser;
-   // private String dbpassword;
     private String dbidentifier;
     private String dbhost;
     private String dbtype=MYSQL;

@@ -1,14 +1,5 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package cloudfoundry;
 
-/**
- *
- * @author jled
- */
 public class Cloud4SoaException extends Exception {
 
     String msg;

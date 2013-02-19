@@ -16,10 +16,6 @@ import javax.ws.rs.core.HttpHeaders;
 import javax.ws.rs.core.MediaType;
 import org.apache.cxf.jaxrs.ext.MessageContext;
 
-/**
- *
- * @author davidcunha (david-g-cunha@ptinovacao.pt)
- */
 @Path("/c4s")
 public class Adapter {
 
